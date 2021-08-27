@@ -1,3 +1,6 @@
+# Installation
+[View installation instructions here.](/ShipStationMivaMerchantSetupGuide.pdf)
+
 # Overview
  [ShipStation](https://www.shipstation.com/)  leads the ecommerce world with our web-based software designed to make ecommerce retailers exceptionally efficient at processing, fulfilling, and shipping their orders from all the most popular marketplaces and shopping carts using all the top carriers.
 Save time and money with efficient shipping. Sync all your orders from Miva and wherever you sell and start printing labels from all the major carriers with a few clicks.
